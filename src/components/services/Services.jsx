@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import "./services.css";
 
 const Services = () => {
     return (
@@ -20,7 +21,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title"></h3>
+                            <h3 className="services__modal-title">Visual Designer</h3>
                             <p className="services__modal-description">Service with more than 3 years of experience.Providing quality work to clients and companies</p>
 
                             <ul className="services__modal-service grid">
@@ -61,7 +62,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title"></h3>
+                            <h3 className="services__modal-title">Developer</h3>
                             <p className="services__modal-description">Service with more than 3 years of experience.Providing quality work to clients and companies</p>
 
                             <ul className="services__modal-service grid">
@@ -92,7 +93,7 @@ const Services = () => {
                 <div className="services__content">
                     <div>
                         <i className="uil uil services__icon"></i>
-                        <h3 className="services__title"></h3>
+                        <h3 className="services__title">Developer</h3>
                     </div>
 
 
@@ -102,7 +103,7 @@ const Services = () => {
                         <div className="services__modal-content">
                             <i className="uil uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title"></h3>
+                            <h3 className="services__modal-title">Developer</h3>
                             <p className="services__modal-description">Service with more than 3 years of experience.Providing quality work to clients and companies</p>
 
                             <ul className="services__modal-service grid">
